@@ -7,7 +7,7 @@ Unlike the original, the id of the departments where updated to make these compa
 please suport the original material [here](https://github.com/mgaitan/departamentos_argentina)
 
 # Author
-Hernan Octavio de la Vega(DocOc98)
+[Hernan Octavio de la Vega](DocOc98)
 
 # Credits
 Original Repository: [departamentos_argentina](https://github.com/mgaitan/departamentos_argentina)
